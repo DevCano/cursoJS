@@ -1,0 +1,11 @@
+{
+  "name": "cursojs",
+  "version": "1.0.0",
+  "description": "Ejercicio 1",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "echo \"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\" && exit 1"
+  },
+  "author": "Nazario Cano",
+  "license": "ISC"
+}
